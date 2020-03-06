@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <!--    internet explorer compatibility meta-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--    first mobile meta-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TRAVELL</title>
+    <!--    bootstrap-->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!--    fontawesome-->
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+
+    <link rel="stylesheet" href="css/style1.css">
+<link rel="stylesheet"href="css/style.css">
+     <link rel="stylesheet" href="css/font-awesome.css">
+      
+    <link href="https://fonts.googleapis.com/css?family=Lobster|Pacifico" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Concert+One|Lobster|Pacifico" rel="stylesheet">
+    	<!-- Theme style  -->
+	
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+   <!--[if lt IE 9]>
+    <script src="js/html5shiv.min.js"></script>
+    <script src="js/respond.min.js"></script>
+<![endif]-->
+    
+
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<script type="text/javascript" src="engine0/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<!--script type="text/javascript" src="engine1/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section --></head>
+<body>
+            <!--    start header--> 
+    <div class="contain">
+    <div class="header">
+    <div class="container">
+        <div class="row">
+        <div class="col-md-3">
+            <div class="logo">
+            
+            <img src="images/Logo.png">
+            
+            </div>
+            
+            
+            </div>
+         <!--                            start menu bar-->
+            <div class="col-md-9"><div class="navv">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light ">
+ 
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">About-Us</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">properties</a>
+      </li>
+         <li class="nav-item">
+        <a class="nav-link" href="#">Blog</a>
+      </li>
+         <li class="nav-item">
+        <a class="nav-link" href="#">Pages</a>
+      </li>
+       <li class="nav-item">
+        <a class="nav-link" href="#">Contact-us</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+                </div></div>
+        </div>
+        
+        </div>
+    
+    
+    
+  
+    </div>
+
+    <!--    end header-->
+	<!-- Start WOWSlider.com BODY section --> 
+        <!-- add to the <body> of your page -->
+        <div class="row"><div class="col-md-12">
+	<div id="wowslider-container0">
+	<div class="ws_images"><ul>
+		<li><img src="data0/images/1.jpg" alt="1" title="1" id="wows0_0"/></li>
+		<li><img src="data0/images/2.jpg" alt="2" title="2" id="wows0_1"/></li>
+		<li><a href="http://wowslider.net"><img src="data0/images/3.jpg" alt="javascript carousel" title="3" id="wows0_2"/></a></li>
+		<li><img src="data0/images/4.jpg" alt="4" title="4" id="wows0_3"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="1"><span><img src="data0/tooltips/1.jpg" alt="1"/>1</span></a>
+		<a href="#" title="2"><span><img src="data0/tooltips/2.jpg" alt="2"/>2</span></a>
+		<a href="#" title="3"><span><img src="data0/tooltips/3.jpg" alt="3"/>3</span></a>
+		<a href="#" title="4"><span><img src="data0/tooltips/4.jpg" alt="4"/>4</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">image carousel</a> by WOWSlider.com v8.8</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	</div></div>
+	<!-- End WOWSlider.com BODY section -->
+           <div class="home">
+     <div class="container">
+        <div class="row">
+            
+               <div class="col-md-2">
+           
+            </div>
+            <div class="col-md-8">
+                <div class="h-head text-center  wow fadeInUp"data-wow-duration="2s" data-wow-offset="300">
+           <h2>Hotel Accomodation</h2>
+                    <p>We all live in an age that belongs to the young at heart. Life that is becoming extremely fast,</p>
+            </div>
+            
+            </div>
+            <div class="col-md-2">
+           
+            
+            
+            </div>
+            
+         </div>
+                  <div class="row">
+        <div class="col-md-3 wow slideInLeft"data-wow-duration="2.9s" data-wow-offset="300">
+            <div class="h-img text-center">
+                <img src="images/room/room1.jpg">
+            <button>Book Now</button>
+                <br><br><h4>Double Deluxe Room</h4>
+                <h5>$250<small>/night</small></h5>
+            </div>
+                      </div>
+        
+        <div class="col-md-3  wow slideInLeft"data-wow-duration="2.6s" data-wow-offset="300">
+            <div class="h-img text-center">
+                <img src="images/room/room2.jpg">
+                  <button>Book Now</button>
+                <br><br><h4>Single Deluxe Room</h4>
+                <h5>$200<small>/night</small></h5>
+            </div>
+                      </div>
+                      <div class="col-md-3  wow slideInLeft"data-wow-duration="2.3s" data-wow-offset="300">
+            <div class="h-img text-center">
+                <img src="images/room/room3.jpg">
+                  <button>Book Now</button>
+                <br><br><h4>Honeymoon Suit</h4>
+                <h5  >$750<small>/night</small></h5>
+            </div>
+                      </div>
+                      <div class="col-md-3 wow slideInLeft"data-wow-duration="2s" data-wow-offset="300">
+            <div class="h-img text-center">
+                <img src="images/room/room4.jpg">
+                  <button>Book Now</button>
+                <br><br><h4>Economy Double</h4>
+                <h5>$200<small>/night</small></h5>
+            </div>
+                      </div>
+        </div> 
+               
+               </div></div>
+        <!--    start food-->
+        <div class="row">
+            
+            <div class="col-md-12 f-img">
+            
+            <img src="images/video-bg.jpg" width="100%">
+            
+            </div></div>
+      
+    <!--    end food-->
+        <!--    start home2-->
+               <div class="home">
+     <div class="container">
+        <div class="row">
+            <div class=" h"><img class=" wow slideInLeft"data-wow-duration="2s" data-wow-offset="300"src="images/lamp.jpg"width="100%">
+                <img class=" wow slideInLeft"data-wow-duration="2s" data-wow-offset="300"src="images/fuji.jpg"width="100%">
+            </div>
+            <div class=" h11"><img class=" wow fadeInUp"data-wow-duration="2s" data-wow-offset="300" src="images/salad.jpg"width="100%">
+            <img  class=" wow fadeInUp"data-wow-duration="2s" data-wow-offset="300" src="images/liberty.jpg"width="100%"></div>
+            <div class=" h22"><img  class=" wow slideInRight"data-wow-duration="2s" data-wow-offset="300"src="images/woodcraft.jpg"width="100%">
+            <img  class=" wow slideInRight"data-wow-duration="2s" data-wow-offset="300"src="images/shutterbug.jpg"width="100%"height="363px"></div>
+         </div>
+                   </div>
+        </div>
+        <!--    end home2-->
+           <!--    start home3-->
+               <div class="home">
+     <div class="container">
+              <div class="row">
+            
+               <div class="col-md-2">
+           
+            </div>
+            <div class="col-md-8">
+                <div class="h-head text-center  wow fadeInUp"data-wow-duration="2s" data-wow-offset="300">
+           <h2>Hotel images</h2>
+                    <p>We all live in an age that belongs to the young at heart. Life that is becoming extremely fast,</p>
+            </div>
+            
+            </div>
+            <div class="col-md-2">
+           
+            
+            
+            </div>
+            
+         </div>
+        <div class="row">
+            <div clas="col-md-4 ">
+                <div class="imo wow fadeInLeft"data-wow-duration="2s" data-wow-offset="300">
+            <img src="images/man.png"width="100%"height="400px">
+            </div>
+	</div>
+            <div clas="col-md-8 ">
+            
+
+            </div>
+           
+         </div>
+         
+                   </div>
+        </div>
+         <!--    end home3-->
+           <!--    start footer-->
+    <footer>
+    <div class="row">
+        
+                 <div class="col-md-12">
+         <p> <i class="fa fa-copyright" aria-hidden="true"></i>
+                ALL Rights Reserved, ANAS 2018</p>
+        </div>
+        
+        </div>
+    
+    
+    
+    
+    </footer>
+    
+    
+    <!--    end footer-->
+        </div>
+     <!--    end contain-->
+  
+    <script type="text/javascript" src="engine0/wowslider.js"></script>
+	<script type="text/javascript" src="engine0/script.js"></script>
+                <script src="js/html5shiv.min.js"></script>
+    <script src="js/jquery-1.12.3.min.js"></script>
+     <script src="js/bootstrap.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+   
+    <script src="js/main.js"></script>
+    <!--    wow.js file-->
+    <script src="js/wow.min.js"></script>
+    
+    <script>
+        new WOW().init();
+
+    </script>
+    	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Flexslider -->
+	
+	<!-- Owl carousel -->
+	<script src="js/owl.carousel.min.js"></script>
+	<!-- Counters -->
+	<script src="js/jquery.countTo.js"></script>
+	
+	
+	<!-- MAIN JS -->
+	<script src="js/main1.js"></script>
+    </body>
+</html>
