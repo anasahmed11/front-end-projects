@@ -1,0 +1,114 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body {
+   font-family: "Roboto", Arial, sans-serif;
+    overflow-x: hidden
+}
+/*start header*/
+.header{
+    background-color: white;
+    padding: 10px 0;
+   
+     
+    
+}
+.navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background: red;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+.logo{
+    padding-top: 10px;
+    color:red;
+}
+.logo h1{
+    color:red; 
+}
+
+.bg-light{
+    background-color: white!important;
+}
+.collapse, .navbar-collapse{
+     background-color: white;
+} 
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    font-size: 20px;
+    padding-left: 20px;
+}
+.navbar-light:hover .navbar-nav:hover .nav-link:hover {
+    color: red;
+
+}
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+    color: white;}
+/*start home*/
+.home{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+h2{
+    font-weight: bold;
+    color: black;
+}
+.h-desc{
+   width: 90%;
+background: #fff;
+margin-top: -3em;
+z-index: 1;
+padding: 1em;
+     position: relative;
+}
+.home-img{
+    overflow: hidden;
+}
+.home-img img{
+    position: relative;
+     display: block;
+    -webkit-transform: scale(1);
+-moz-transform: scale(1);
+-ms-transform: scale(1);
+-o-transform: scale(1);
+transform: scale(1);
+-webkit-transition: 0.3s;
+-o-transition: 0.3s;
+transition: 0.3s
+ 
+    overflow: hidden !important;
+}
+.home-img img:hover{
+      transform: scale(1.1);
+}
+/*end home*/
+/*start instagram*/
+.instagram-entry .instagram{
+    width: 12.5%;
+    float:left;
+    height: 200px;
+    position: relative;
+}
+.instagram{
+    background-size: cover;
+background-position: center center;
+background-repeat: no-repeat;
+position: relative;
+}
+.instagram-entry{
+    margin-top: 50px;
+}
+/*end instagram*/
+/*start footer*/
+footer{
+    background-color: #212125;
+    color: white;
+    text-align: center;
+    padding: 20px;
+
+}
+/*end footer*/
